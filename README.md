@@ -1,16 +1,24 @@
 # <a href="https://www.linkedin.com/in/harmanpreet-singh-048633152/">Harmanpreet Singh</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and enjoy turning security concepts into hands-on, practical investigations. My portfolio focuses on developing and documenting real-world security operations skills through threat hunting, detection engineering, vulnerability management, and incident investigation.
+
+I use tools such as Microsoft Defender, Kusto Query Language (KQL), and security telemetry to investigate suspicious activity, identify indicators of compromise, correlate events across endpoints and network activity, and build a clear timeline of what happened.
+
+Each project in this portfolio is designed to demonstrate not only the technical investigation, but also the analytical process behind it — from developing a hypothesis and querying security data to validating findings, documenting evidence, and determining appropriate response actions.
+
+I'm continuously expanding this portfolio as I work through new scenarios, technologies, and security challenges. Feel free to explore the projects below to see how I approach cybersecurity investigations and security operations from detection through response.
 
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/harmansingh-cyber/threat-hunting-scenario-tor)**
+
+<!--
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+-->
 
 <hr/>
 
