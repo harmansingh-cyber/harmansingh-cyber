@@ -12,6 +12,16 @@ I'm continuously expanding this portfolio as I work through new scenarios, techn
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/harmansingh-cyber/threat-hunting-scenario-tor)**
+- Investigated suspicious Tor Browser activity on a Windows endpoint using Microsoft Defender telemetry and KQL. The investigation covered file activity, process execution, and network connections to establish a chronological timeline of the user's activity.
+
+**Tools & Technologies:** Microsoft Defender, KQL, DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents
+
+## 🧰 Tools & Technologies
+
+- **Security Operations:** Threat Hunting, Incident Investigation, Timeline Analysis
+- **Microsoft Defender:** DeviceFileEvents, DeviceProcessEvents, DeviceNetworkEvents
+- **Query Language:** Kusto Query Language (KQL)
+- **Operating Systems:** Windows
 
 <!--
 ## ⚠️ Vulnerability Management Projects
@@ -24,15 +34,11 @@ I'm continuously expanding this portfolio as I work through new scenarios, techn
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+
+
+[linkedin]:[ https://linkedin.com/in/___________](https://www.linkedin.com/in/harmanpreet-singh-048633152)
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
