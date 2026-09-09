@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/harmanpreet-singh-048633152/">Harmanpreet Singh</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/harmanpreet-singh-048633152/">Harmanpreet Singh</a>'s Cybersecurity Portfolio 🔐
 
 I'm passionate about cybersecurity and enjoy turning security concepts into hands-on, practical investigations. My portfolio focuses on developing and documenting real-world security operations skills through threat hunting, detection engineering, vulnerability management, and incident investigation.
 
