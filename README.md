@@ -38,7 +38,7 @@ I'm continuously expanding this portfolio as I work through new scenarios, techn
 
 
 
-[linkedin]:[ https://linkedin.com/in/___________](https://www.linkedin.com/in/harmanpreet-singh-048633152)
+[linkedin]:(https://www.linkedin.com/in/harmanpreet-singh-048633152)
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
